@@ -1,0 +1,15 @@
+# Generated or local-only data
+assets/catalog-machine-cache.*.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Launcher runtime state
+status.json
+installation.json
+locale.json
+
+# Local development
+.venv/
+node_modules/
