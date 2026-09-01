@@ -32,7 +32,7 @@ The 14 starter packs localize the store shell and the Popular cards for Gmail, G
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-account>/codex-plugin-store-localizer.git
+git clone https://github.com/lwf225-source/codex-plugin-store-localizer.git
 cd codex-plugin-store-localizer
 
 # Optional: choose the locale used on the next launcher start.
