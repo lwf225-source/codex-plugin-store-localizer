@@ -1,0 +1,5 @@
+interface:
+  display_name: "插件商店汉化"
+  short_description: "通过独立启动器实时汉化 Codex 官方插件说明"
+  brand_color: "#10A37F"
+  default_prompt: "使用 $localize-plugin-store 检查并启动插件商店运行时汉化。"
