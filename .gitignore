@@ -13,3 +13,4 @@ locale.json
 # Local development
 .venv/
 node_modules/
+dist/
