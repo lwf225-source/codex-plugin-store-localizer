@@ -1,4 +1,4 @@
-# ChatGPT 插件商店汉化 / Codex 插件目录本地化启动器
+# Codex Plugin Store Localizer
 
 [English](README.md) · [简体中文](README.zh-Hans.md) · [项目网站](https://lwf225-source.github.io/codex-plugin-store-localizer/zh-Hans/) · [下载 v0.3.0](https://github.com/lwf225-source/codex-plugin-store-localizer/releases/tag/v0.3.0)
 
@@ -39,7 +39,7 @@
 | macOS | 启动器检查目标应用身份及完整性；兼容性依赖具体应用构建 |
 | Windows | 实验性 `.cmd` 启动器；实机验收待完成 |
 
-15 个语言代码：`zh-Hans`、`zh-Hant`、`en`、`ja`、`ko`、`es`、`fr`、`de`、`pt-BR`、`ru`、`ar`、`hi`、`id`、`tr`、`vi`。其中 `en` 是英文语言环境。“15 个语言环境”不代表 15 种语言均覆盖整个目录，也不等于覆盖 80% 国家。条目数不是独立插件数，不承诺自动覆盖未来新增插件。
+15 个语言代码：`zh-Hans`、`zh-Hant`、`en`、`ja`、`ko`、`es`、`fr`、`de`、`pt-BR`、`ru`、`ar`、`hi`、`id`、`tr`、`vi`。其中 `en` 是英文语言环境。“15 个语言环境”不代表 15 种语言均覆盖整个目录。条目数不是独立插件数，不承诺自动覆盖未来新增插件。
 
 ## ChatGPT 插件商店怎么设置成中文？
 

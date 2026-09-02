@@ -24,6 +24,7 @@ node --test tests/test_injector.mjs
 
 ## Pull request checklist
 
+- [ ] Documentation covers project features, setup, compatibility, or maintenance; working notes and publication checklists stay outside the repository.
 - [ ] Tests pass locally.
 - [ ] No secrets, account data, logs, or local status files are included.
 - [ ] Security boundaries remain fail-closed.

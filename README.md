@@ -1,4 +1,4 @@
-# Codex Plugin Store Localizer — 15-Language Localization for macOS and Windows
+# Codex Plugin Store Localizer
 
 [English](README.md) · [简体中文](README.zh-Hans.md) · [Website](https://lwf225-source.github.io/codex-plugin-store-localizer/) · [Download v0.3.0](https://github.com/lwf225-source/codex-plugin-store-localizer/releases/tag/v0.3.0)
 
@@ -13,7 +13,7 @@
 
 This community project is **not affiliated with or endorsed by OpenAI**. It does not modify the macOS app bundle, the Windows executable, official plugins, or official catalog responses.
 
-Looking for **ChatGPT plugin store Chinese translation**, **Codex 插件商店汉化**, or **插件目录本地化**? This is a desktop launcher for that specific directory—not a browser extension, chat translator, or replacement for the official app. Compatibility depends on the app build; Windows real-device validation is still pending.
+This is a desktop launcher, not a browser extension, chat translator, or replacement for the official app. Compatibility depends on the app build; Windows real-device validation is still pending.
 
 ## Real screenshots: English → Simplified Chinese
 
@@ -49,7 +49,7 @@ These show different catalog sections, not a matched before/after pair.
 | Does it upload page or account data? | No |
 | License | [MIT](LICENSE) |
 
-## Why use this Codex plugin-store localizer?
+## Features
 
 - **Private by design** — uses a local inherited-pipe Chrome DevTools Protocol connection and never opens a TCP debugging port.
 - **Fail closed** — a translation is applied only when both the plugin name and the original English text match; unknown content stays unchanged.
