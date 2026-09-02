@@ -1,6 +1,6 @@
 {
   "name": "codex-plugin-store-zh",
-  "version": "0.3.0+codex.20260901171308",
+  "version": "0.3.0",
   "description": "\u901a\u8fc7\u72ec\u7acb\u542f\u52a8\u5668\u5728 Codex \u684c\u9762\u5e94\u7528\u6700\u7ec8\u6e32\u67d3\u5c42\u7cbe\u786e\u6c49\u5316\u5b98\u65b9\u63d2\u4ef6\u76ee\u5f55\u8bf4\u660e\u3002",
   "author": {
     "name": "\u672c\u5730\u4e2a\u4eba\u63d2\u4ef6"
